@@ -1,0 +1,5 @@
+fatihul,fatihul,10000
+aland,aland,10000
+nathan,nathan,10000
+samuel,samuel,10000
+maha,maha,10000
